@@ -214,7 +214,7 @@ GameObject:
   - component: {fileID: 1512474429}
   - component: {fileID: 1512474428}
   m_Layer: 0
-  m_Name: HelloWorld
+  m_Name: HelloWorldFromHome
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -229,7 +229,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1512474427}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e03e867b861e4ed897ccb922f2679b3, type: 3}
+  m_Script: {fileID: 11500000, guid: 352829b6298f74189bf7a41f3bc3ff6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1512474429
